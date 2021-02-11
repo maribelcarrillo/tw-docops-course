@@ -1,6 +1,6 @@
 # Technical Writing DocOps Course
 
-Hello this is my readme file. I have no idea what to write here. I will continue writing because the requisites are to have one parragraph. As we know, parragraphs can't have only one sentence. Now that I have more sentences, I can stop writing.
+Hello this is my readme file. I have no idea what to write here. I will continue writing because one of the requisites is to have one parragraph. As we know, parragraphs can't have only one sentence. Now that I have more sentences, I can stop writing.
 
 I have two cats:
 - Toribio
